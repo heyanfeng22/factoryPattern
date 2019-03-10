@@ -1,4 +1,4 @@
-package com.gupao.factory;
+package com.gupao.factoryMethod;
 
 import com.gupao.Banana;
 import com.gupao.Fruit;
